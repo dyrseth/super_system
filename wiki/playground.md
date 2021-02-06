@@ -106,5 +106,6 @@ https://stackoverflow.com/questions/46123854/expandable-table-rows-in-angular-4-
 - [ ] connect app w db
 - [ ] select from db to screen
 - [ ] implement material.angular.io/components/expansion/overview and expandable table rows in angular 4 with angular material
+- [ ] new test thing
 
 https://medium.com/@wkrzywiec/database-in-a-docker-container-how-to-start-and-whats-it-about-5e3ceea77e50
